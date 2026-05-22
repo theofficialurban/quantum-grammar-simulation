@@ -287,6 +287,23 @@ export default function App() {
             Visualizing the quantum coherence and topological geometry of your
             syntax.
           </p>
+          <div className="flex-row gap-4 font-bold">
+            <a
+              href="https://www.youtube.com/watch?v=RfqxHH5Srxk"
+              target="_blank"
+            >
+              Video by David Wynn Miller
+            </a>
+            <a
+              href="https://docs.urbanodyssey.xyz/quantum/quantum-grammar.html"
+              target="_blank"
+            >
+              Extended Notes
+            </a>
+            <a href="https://direct.me/officialurban" target="_blank">
+              Created by Urban Odyssey /w Help from Gemini
+            </a>
+          </div>
         </header>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
