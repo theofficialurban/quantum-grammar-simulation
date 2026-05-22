@@ -287,7 +287,7 @@ export default function App() {
             Visualizing the quantum coherence and topological geometry of your
             syntax.
           </p>
-          <div className="flex-row gap-4 font-bold">
+          <div className=" inline-flex gap-4 font-bold">
             <a
               href="https://www.youtube.com/watch?v=RfqxHH5Srxk"
               target="_blank"
